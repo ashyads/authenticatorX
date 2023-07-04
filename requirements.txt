@@ -1,2 +1,4 @@
 Django==4.2.3
 djangorestframework==3.14.0
+jsonschema==4.17.3
+PyJWT==2.7.0

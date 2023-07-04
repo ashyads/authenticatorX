@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "mobile": {
+      "type": "string",
+      "pattern": "^[6-9]\\d{9}$",
+      "minLength": 10,
+      "maxLength": 10
+    }
+  },
+  "required": [
+    "mobile"
+  ],
+  "additionalProperties": false
+}
