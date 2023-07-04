@@ -11,7 +11,7 @@ User Delete: The project also includes an API endpoint to delete user accounts u
 Installation and Setup
 To run the AuthenticatorX project on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/AuthenticatorX.git
+Clone the repository: git clone https://github.com/ashyads/authenticatorX.git
 Navigate to the project directory: cd AuthenticatorX
 Create and activate a virtual environment: python3 -m venv venv (Linux/Mac) or python -m venv venv (Windows) and source venv/bin/activate (Linux/Mac) or venv\Scripts\activate (Windows)
 Install the project dependencies: pip install -r requirements.txt
